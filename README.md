@@ -131,26 +131,19 @@ a.p:hover span {
 
 
 <h3><span class="white">コスモスはまだ７分咲きだけど、ママはごきげん ！</span></h3>
-<a href="20211003_001.JPG" data-lightbox="abc"><img src="20211003_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_002.JPG" data-lightbox="abc"><img src="20211003_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_003.JPG" data-lightbox="abc"><img src="20211003_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_004.JPG" data-lightbox="abc"><img src="20211003_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_005.JPG" data-lightbox="abc"><img src="20211003_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_006.JPG" data-lightbox="abc"><img src="20211003_006.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_007.JPG" data-lightbox="abc"><img src="20211003_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_008.JPG" data-lightbox="abc"><img src="20211003_008.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_009.JPG" data-lightbox="abc"><img src="20211003_009.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_010.JPG" data-lightbox="abc"><img src="20211003_010.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_011.JPG" data-lightbox="abc"><img src="20211003_011.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_012.JPG" data-lightbox="abc"><img src="20211003_012.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_013.JPG" data-lightbox="abc"><img src="20211003_013.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_014.JPG" data-lightbox="abc"><img src="20211003_014.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_015.JPG" data-lightbox="abc"><img src="20211003_015.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_016.JPG" data-lightbox="abc"><img src="20211003_016.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_017.JPG" data-lightbox="abc"><img src="20211003_017.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_018.JPG" data-lightbox="abc"><img src="20211003_018.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_019.JPG" data-lightbox="abc"><img src="20211003_019.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211003_020.JPG" data-lightbox="abc"><img src="20211003_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211006_001.jpg" data-lightbox="abc"><img src="20211006_001.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20211006_002.jpg" data-lightbox="abc"><img src="20211006_002.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20211006_003.jpg" data-lightbox="abc"><img src="20211006_003.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20211006_004.jpg" data-lightbox="abc"><img src="20211006_004.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20211006_005.jpg" data-lightbox="abc"><img src="20211006_005.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20211006_006.jpg" data-lightbox="abc"><img src="20211006_006.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20211006_007.jpg" data-lightbox="abc"><img src="20211006_007.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20211006_008.png" data-lightbox="abc"><img src="20211006_008.png" alt="サンプル画像" width="900" /></a>
+<a href="20211006_009.png" data-lightbox="abc"><img src="20211006_009.png" alt="サンプル画像" width="900" /></a>
+<a href="20211006_010.jpg" data-lightbox="abc"><img src="20211006_010.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20211006_011.jpg" data-lightbox="abc"><img src="20211006_011.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20211006_012.jpg" data-lightbox="abc"><img src="20211006_012.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20211006_013.jpg" data-lightbox="abc"><img src="20211006_013.jpg" alt="サンプル画像" width="900" /></a>
 
 <!--
 </div>
