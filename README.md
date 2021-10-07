@@ -130,13 +130,13 @@ a.p:hover span {
 <p align="left"> <img src="QR_mama.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>-->
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<h3><span class="white">IoT学習キットの無償モニター募集です。<br>センサーの情報を特定省電力無線でラズパイに飛ばしてグラフ表示するというアイテム。<br>当たらないだろうな〜と思って申し込んだら、電話がかかって来て6日後には到着しました ！</span></h3>
+<h3><span class="blue">IoT学習キットの無償モニター募集です。<br>センサーの情報を特定省電力無線でラズパイに飛ばしてグラフ表示するというアイテム。<br>当たらないだろうな〜と思って申し込んだら、電話がかかって来て6日後には到着しました ！</span></h3>
 <a href="20211006_009.png" data-lightbox="abc"><img src="20211006_009.png" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">届いたのはこんな部品。</span></h3>
 <a href="20211006_001.jpg" data-lightbox="abc"><img src="20211006_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20211006_002.jpg" data-lightbox="abc"><img src="20211006_002.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20211006_003.jpg" data-lightbox="abc"><img src="20211006_003.jpg" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">取説はNetにもありましたが、紙で入ってました。</span></h3>
+<h3><span class="blue">取説はNetにもありましたが、紙で入ってました。</span></h3>
 <a href="20211006_010.jpg" data-lightbox="abc"><img src="20211006_010.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20211006_011.jpg" data-lightbox="abc"><img src="20211006_011.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20211006_012.jpg" data-lightbox="abc"><img src="20211006_012.jpg" alt="サンプル画像" width="900" /></a>
@@ -144,16 +144,16 @@ a.p:hover span {
 <!--
 <a href="20211006_004.jpg" data-lightbox="abc"><img src="20211006_004.jpg" alt="サンプル画像" width="900" /></a>
 -->
-<h3><span class="white">ラズパイは自分で用意してとの事で、４Bの４GBを先行で入手<br>3Bか3B+しか作動保証しないと言われましたが、確信犯的に4Bです・・・。</span></h3>
+<h3><span class="blue">ラズパイは自分で用意してとの事で、４Bの４GBを先行で入手<br>3Bか3B+しか作動保証しないと言われましたが、確信犯的に4Bです・・・。</span></h3>
 <a href="20211006_005.jpg" data-lightbox="abc"><img src="20211006_005.jpg" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white">組み上げるとこんな感じ、左がセンサーで、右がラズパイ。<br>USBに刺さった特定省電力無線の親機が目立ってます。</span></h3>
+<h3><span class="blue">組み上げるとこんな感じ、左がセンサーで、右がラズパイ。<br>USBに刺さった特定省電力無線の親機が目立ってます。</span></h3>
 <a href="20211006_007.jpg" data-lightbox="abc"><img src="20211006_007.jpg" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white">作動保証のないラズパイ４Bでも全く問題なく動きました。<br>最終的に、ラズパイに繋いだモニターにCO2濃度、温度、湿度のグラフが表示されています。</span></h3>
+<h3><span class="blue">作動保証のないラズパイ４Bでも全く問題なく動きました。<br>最終的に、ラズパイに繋いだモニターにCO2濃度、温度、湿度のグラフが表示されています。</span></h3>
 <a href="20211006_008.png" data-lightbox="abc"><img src="20211006_008.png" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white">温度は水銀柱温度計と比べても、かなり正確でした。</span></h3>
+<h3><span class="blue">温度は水銀柱温度計と比べても、かなり正確でした。</span></h3>
 <a href="20211006_006.jpg" data-lightbox="abc"><img src="20211006_006.jpg" alt="サンプル画像" width="900" /></a>
 
 <!--
