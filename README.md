@@ -120,7 +120,7 @@ a.p:hover span {
 —->
 
 <!—-表題の表示、背景黄色、流れ文字の例-->
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2021年10月6日(水) IoT 学習キットが届きました !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2021年9月30日(木)に申し込んだ IoT 学習キットが、10月6日(水)に届きました !!!</marquee></span></h1>
 
 <!--
 <div style="background-color:rgb(255,255,255,0.3);”>
@@ -130,7 +130,7 @@ a.p:hover span {
 <p align="left"> <img src="QR_mama.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>-->
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<h3><span class="white">IoT学習キットの無償モニター募集です。<br>当たらないだろうな〜と思って申し込んだら、電話がかかって来て3日後には到着しました ！</span></h3>
+<h3><span class="white">IoT学習キットの無償モニター募集です。<br>当たらないだろうな〜と思って申し込んだら、電話がかかって来て6日後には到着しました ！</span></h3>
 <a href="20211006_009.png" data-lightbox="abc"><img src="20211006_009.png" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">届いたのはこんな部品。</span></h3>
 <a href="20211006_001.jpg" data-lightbox="abc"><img src="20211006_001.jpg" alt="サンプル画像" width="900" /></a>
