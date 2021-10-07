@@ -150,7 +150,7 @@ a.p:hover span {
 <h3><span class="white">組み上げるとこんな感じ、左がセンサーで、右がラズパイ。<br>USBに刺さった特定省電力無線の親機が目立ってます。</span></h3>
 <a href="20211006_007.jpg" data-lightbox="abc"><img src="20211006_007.jpg" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white">最終的に、ラズパイに繋いだモニターにCO2濃度、温度、湿度のグラフが表示されました。</span></h3>
+<h3><span class="white">作動保証のないラズパイ４Bでも全く問題なく動きました。<br>最終的に、ラズパイに繋いだモニターにCO2濃度、温度、湿度のグラフが表示されています。</span></h3>
 <a href="20211006_008.png" data-lightbox="abc"><img src="20211006_008.png" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="white">温度は水銀柱温度計と比べても、かなり正確でした。</span></h3>
@@ -161,6 +161,7 @@ a.p:hover span {
 -->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+<h3><span class="white">今回は面白いおもちゃをGetしたお話でした。<br>ここまで観ていただきありがとう御座いました。</span></h3>
 
 
 
