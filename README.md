@@ -130,7 +130,7 @@ a.p:hover span {
 <p align="left"> <img src="QR_mama.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>-->
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<h3><span class="white">当たらないだろうな〜と思って申し込んだら、電話がかかって来て3日後には到着しました ！</span></h3>
+<h3><span class="white">IoT学習キットの無償モニター募集です。<br>当たらないだろうな〜と思って申し込んだら、電話がかかって来て3日後には到着しました ！</span></h3>
 <a href="20211006_009.png" data-lightbox="abc"><img src="20211006_009.png" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">届いたのはこんな部品。</span></h3>
 <a href="20211006_001.jpg" data-lightbox="abc"><img src="20211006_001.jpg" alt="サンプル画像" width="900" /></a>
@@ -141,9 +141,9 @@ a.p:hover span {
 <a href="20211006_011.jpg" data-lightbox="abc"><img src="20211006_011.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20211006_012.jpg" data-lightbox="abc"><img src="20211006_012.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20211006_013.jpg" data-lightbox="abc"><img src="20211006_013.jpg" alt="サンプル画像" width="900" /></a>
-
+<!--
 <a href="20211006_004.jpg" data-lightbox="abc"><img src="20211006_004.jpg" alt="サンプル画像" width="900" /></a>
-	
+-->
 <h3><span class="white">ラズパイは自分で用意してとの事で、４Bの４GBを先行で入手<br>3Bか3B+しか作動保証しないと言われましたが、確信犯的に4Bです・・・。</span></h3>
 <a href="20211006_005.jpg" data-lightbox="abc"><img src="20211006_005.jpg" alt="サンプル画像" width="900" /></a>
 
