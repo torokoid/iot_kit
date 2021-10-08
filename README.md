@@ -157,7 +157,7 @@ a.p:hover span {
 <a href="20211006_006.jpg" data-lightbox="abc"><img src="20211006_006.jpg" alt="サンプル画像" width="900" /></a>
 	
 <br><br>
-<p><a href="https://cmengineering.co.jp/">最後に学習キットをいただいた会社のHPをリンクします。どうもありがとう御座いました。</a></p>
+<p><a href="https://cmengineering.co.jp/" target="_blank" class="p">最後に学習キットをいただいた会社のHPをリンクします。どうもありがとう御座いました。</a></p>
 
 <!--
 </div>
