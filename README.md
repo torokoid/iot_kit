@@ -157,7 +157,9 @@ a.p:hover span {
 <a href="20211006_006.jpg" data-lightbox="abc"><img src="20211006_006.jpg" alt="サンプル画像" width="900" /></a>
 	
 <br><br>
-<p><a href="https://cmengineering.co.jp/" target="_blank" class="p">最後に学習キットをいただいた会社のHPをリンクします。どうもありがとう御座いました。</a></p>
+<h3><span class="white">今回は、学習キットの無償提供から始まり、わからないことなどの質問事項にも、迅速にお答えいただきました。<br>
+	最後に学習キットをいただいた会社のHPをリンクします。どうもありがとう御座いました。</span></h3>
+	<p><a href="https://cmengineering.co.jp/" target="_blank" class="p"><span class="white">リンク</span></a></p>
 
 <!--
 </div>
