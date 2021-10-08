@@ -158,7 +158,7 @@ a.p:hover span {
 	
 <br><br>
 <h3><span class="white">今回は、学習キットの無償提供から始まり、<br>担当の方には、わからないことなどの質問事項にも、迅速にお答えいただきました。
-	<br>どうもありがとう御座いました。
+	<br>どうもありがとう御座いました。<br>
 	<br>最後に学習キットをいただいた会社のHPをリンクします。</span></h3>
 	<p><a href="https://cmengineering.co.jp/" target="_blank" class="p">→ CMエンジニアリング株式会社、リンク</a></p>
 
