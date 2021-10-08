@@ -156,7 +156,8 @@ a.p:hover span {
 <h3><span class="yellow">温度は水銀柱温度計と比べても、かなり正確でした。</span></h3>
 <a href="20211006_006.jpg" data-lightbox="abc"><img src="20211006_006.jpg" alt="サンプル画像" width="900" /></a>
 	
-<p><a href="https://cmengineering.co.jp/"</a>最後に学習キットをいただいた会社のHPをリンクします。</p>
+<br><br>
+<p><a href="https://cmengineering.co.jp/"</a>最後に学習キットをいただいた会社のHPをリンクします。どうもありがとう御座いました。</p>
 
 <!--
 </div>
